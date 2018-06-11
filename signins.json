@@ -2,7 +2,7 @@
   {
     "firstname": "John",
     "lastname": "Smith",
-    "phonenumber": 1234567890,
+    "phonenumber": "(123)456-7890",
     "email": "",
     "reason": "Some reason",
     "timein": "5/1/2008 6:32:06 PM",
@@ -11,7 +11,7 @@
 {
     "firstname": "Jane",
     "lastname": "Doe",
-    "phonenumber": 0987654321,
+    "phonenumber": "(098)765-4321",
     "email": "",
     "reason": "Some reason",
     "timein": "5/1/2009 8:25:19 AM",
